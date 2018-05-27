@@ -8,6 +8,6 @@ namespace TransactionLog
 {
     public class Class1
     {
-        //add code mythri
+        //add code by mythri
     }
 }
