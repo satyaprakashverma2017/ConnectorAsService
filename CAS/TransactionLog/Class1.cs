@@ -9,6 +9,6 @@ namespace TransactionLog
     public class Class1
     {
         //add code by mythri
-        //chananged by ojeshwini
+        //code add by ojeshwini
     }
 }
