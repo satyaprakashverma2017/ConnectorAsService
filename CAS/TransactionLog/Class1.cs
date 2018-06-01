@@ -10,7 +10,6 @@ namespace TransactionLog
     {
         //add code by mythri
         //Projects Success
-        //chananged by ojeshwini
         //code add by ojeshwini
     }
 }
